@@ -1,5 +1,5 @@
 ##  Lithiom-ion Battery Aging Dataset Collection
-Collect several LIB aging dataset I know. Occasionally update.
+Collect several LIB aging datasets I know. Occasionally update.
 
 ### Brief Description
 | **Name**         | **Author**      | **Battery Type**    | **Number of Cells** | **Download Link**                                                        |
