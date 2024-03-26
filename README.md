@@ -10,11 +10,11 @@ Collect several LIB aging datasets I know. Occasionally update.
 
 ### Detail Description
 
-* Attia Dataset
+* Attia Dataset  
   source: [Closed-loop optimization of extreme fast charging for batteries using machine learning](https://www.nature.com/articles/s41586-020-1994-5)
 
-* Severson Dataset
+* Severson Dataset  
   source: [Data-driven prediction of battery cycle life before capacity degradation](https://www.nature.com/articles/s41560-019-0356-8)
 
-* Stanford Dataset
+* Stanford Dataset  
   source: [Lithium-ion battery aging dataset based on electric vehicle real-driving profiles](https://doi.org/10.1016/j.dib.2022.107995)
