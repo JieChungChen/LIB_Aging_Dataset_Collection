@@ -1,4 +1,4 @@
-##  Lithiom-ion Battery Aging Dataset Collection
+##  Lithium-ion Battery Aging Dataset Collection
 Collect several LIB aging datasets I know. Occasionally update.
 
 ### Brief Description
